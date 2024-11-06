@@ -1,7 +1,5 @@
 /*
-Matthew Penner
-4/19/2022
-Professor Fant, CS163 Data Structures
+
 
 This file will initialize the stack class.  All member functions
 will be initialized in the respective classes along with any private data members.  The goal is
